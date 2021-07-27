@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/popsaga/static/css/main.dacd39e2.chunk.css",
+    "main.js": "/popsaga/static/js/main.a5d85bd9.chunk.js",
+    "main.js.map": "/popsaga/static/js/main.a5d85bd9.chunk.js.map",
+    "runtime-main.js": "/popsaga/static/js/runtime-main.37eab729.js",
+    "runtime-main.js.map": "/popsaga/static/js/runtime-main.37eab729.js.map",
+    "static/js/2.dbe061ce.chunk.js": "/popsaga/static/js/2.dbe061ce.chunk.js",
+    "static/js/2.dbe061ce.chunk.js.map": "/popsaga/static/js/2.dbe061ce.chunk.js.map",
+    "static/js/3.0f254425.chunk.js": "/popsaga/static/js/3.0f254425.chunk.js",
+    "static/js/3.0f254425.chunk.js.map": "/popsaga/static/js/3.0f254425.chunk.js.map",
+    "index.html": "/popsaga/index.html",
+    "static/css/main.dacd39e2.chunk.css.map": "/popsaga/static/css/main.dacd39e2.chunk.css.map",
+    "static/js/2.dbe061ce.chunk.js.LICENSE.txt": "/popsaga/static/js/2.dbe061ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37eab729.js",
+    "static/js/2.dbe061ce.chunk.js",
+    "static/css/main.dacd39e2.chunk.css",
+    "static/js/main.a5d85bd9.chunk.js"
+  ]
+}
